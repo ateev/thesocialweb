@@ -1,0 +1,44 @@
+.dp 
+{
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background-repeat: no-repeat;
+  background-position: center !important;
+  background-size: cover;
+}
+
+.postTitle a
+{   
+  padding-right: 20px;     
+}
+
+#search
+{
+    margin-top: 10px;
+    margin-right:0px;
+}
+
+.searchResults
+{
+  display: none;
+}
+
+.logo
+{
+  font-family: 'Happy Monkey', cursive;
+}
+
+
+#query
+{
+  margin-top: 50px;
+}
+
+.blue
+{
+  font-family: 'Allura', cursive;
+  color:red;
+}
