@@ -10,7 +10,7 @@ Next it will search all the popular social netowrk for the related posts and dis
 With a refresh button, it dynamically updates.
 
 
-Demo: http://ateev23.kd.io/thesocialweb/
+Demo: http://ateev.kd.io/thesocialweb/
 
 
 
